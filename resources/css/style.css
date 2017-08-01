@@ -1,0 +1,44 @@
+* {
+  font-family: Verdana, sans-serif;
+  text-align: center;
+}
+
+body {
+  display: block;
+  margin: 8px;
+  background-color: black;
+}
+
+h1 {
+  text-align: center;
+  font-weight: 600;
+  font-size: 50px;
+  color: white;
+}
+
+h2 {
+  text-align: center;
+  font-weight: 600;
+  font-size: 42px;
+  color: white;
+}
+
+#cta {
+  font-family: Verdana, sans-serif;
+  font-size: 16px;
+  color: aquamarine;
+  text-align: center;
+}
+
+#copy {
+  color: grey;
+  font-size: 21px;
+  font-family: verdana, sans-serif;
+  text-align: center;
+}
+
+.footer {
+  text-align: right;
+  color: grey;
+  margin-right: 50px;
+}
